@@ -1,3 +1,6 @@
+# Version del Tema dado
+Version: v1.2.2
+
 # Formato de Cabezeras
 # Cabezera H1
 ## Cabezera H2
