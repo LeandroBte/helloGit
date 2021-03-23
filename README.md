@@ -98,3 +98,15 @@ export  $initHighlight;
 | --------- | ------------ | -------- |
 | Homero    | Tompson      | 34279345 |
 | Marge     | Tompson      | 33345493 |
+
+# Formato para Citas
+
+Esto es una prueba para hacer referencia a una cita:
+
+> Aqui va una cita de algun autor, Libro, Pelicula, etc.
+
+Con doble __*enter*__ se sale de la cita para continuar escribiendo.
+
+>Probando de nuevo una cita
+
+Probando que con doble __*enter*__ se sale de la cita
