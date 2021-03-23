@@ -123,3 +123,15 @@ También se puede dividir por 3 guiones bajos, siempre con un espacio de separac
 
 ___
 
+# Formatos para line Break (Saltos de Lineas)
+
+Para lograr un salto de linea hay que dejar un espacio con *enter* entre parrafos ej.
+
+Esto ya es un segundo parrafo separado con un *enter* del primer parrafo
+
+Esto ya es un tercer parrafo separado con un *enter* del segundo parrafo
+- Probando Con una lista
+- Segundo Item
+- Tercer Item
+
+Y de esa manera se logra un salto de lineas
