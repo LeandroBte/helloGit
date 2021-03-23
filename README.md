@@ -91,3 +91,10 @@ function $initHighlight(block, cls) {
 
 export  $initHighlight;
 ```
+
+# Formato para Tablas
+
+| Head Name | Head Surname | Head DNI |
+| --------- | ------------ | -------- |
+| Homero    | Tompson      | 34279345 |
+| Marge     | Tompson      | 33345493 |
