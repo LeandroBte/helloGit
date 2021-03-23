@@ -36,7 +36,11 @@ Titulo con underline 2
 - Tercer Item
 - Cuarto Item
 
-## Formato para Link
+# Formato para Link
 
 - [Esto es un enlance con markdown](https://www.google.com)
 - [Enlace hacia el index](index.html)
+
+# Formato para Imagenes
+
+![alt descripcion img](https://www.ostraining.com/cdn/images/coding/github_logo_blog1.png)
