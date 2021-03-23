@@ -110,3 +110,16 @@ Con doble __*enter*__ se sale de la cita para continuar escribiendo.
 >Probando de nuevo una cita
 
 Probando que con doble __*enter*__ se sale de la cita
+
+# Lineas Divisoras
+
+Para dividir un parrafo o texto de otro se utiliza siempre un espacio de separacion del texto/parrafo con *enter* y 3 guiones medios.
+
+---
+Y luego se sigue escribiendo el siguiente texto o parrafo dividido por 3 astericos, siempre con un espacio de separacion del texto/parrafo
+
+***
+También se puede dividir por 3 guiones bajos, siempre con un espacio de separacion del texto/parrafo
+
+___
+
